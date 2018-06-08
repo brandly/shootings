@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "make": "node index.js > shootings.tsv"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "lodash": "4.17.10",
+    "moment": "2.22.2",
+    "node-fetch": "2.1.2"
+  }
+}

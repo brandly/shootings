@@ -5,21 +5,10 @@ const { groupBy, sum } = require('lodash')
 
 fetchShootings()
   .then(shootings => {
-    const byYear = groupBy(shootings, ({ date }) => date.slice(0, 4))
     const sep = '\t'
-
-    console.log(['year', 'events', 'deaths', 'injuries'].join(sep))
-    Object.keys(byYear).forEach(year => {
-      const annual = byYear[year]
-      console.log([
-        year,
-        // events
-        annual.length,
-        // deaths:
-        sum(annual.map(({ deaths }) => deaths)),
-        // injuries
-        sum(annual.map(({ injuries }) => injuries))
-      ].join(sep))
+    console.log(columns.join(sep))
+    shootings.forEach(s => {
+      console.log(columns.map(col => s[col]).join(sep))
     })
   })
 
@@ -59,7 +48,9 @@ function parse (body) {
         ).toISOString(),
         deaths: parseInt(deaths),
         // it's probably a '?'. only occurs a few times.
-        injuries: Number.isNaN(intInjuries) ? 0 : intInjuries
+        injuries: Number.isNaN(intInjuries) ? 0 : intInjuries,
+        location: location.includes('!') ? location.split('!')[1] : location,
+        description: description.replace('\n', ' ')
       }
     })
 }

@@ -11,6 +11,7 @@ fetchShootings()
       console.log(columns.map(col => s[col]).join(sep))
     })
   })
+  .catch(err => console.error(err))
 
 function fetchShootings () {
   return fetch('https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States')

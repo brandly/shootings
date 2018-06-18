@@ -8,9 +8,24 @@ fetchShootings()
     const sep = '\t'
     console.log(columns.join(sep))
     shootings.forEach(s => {
-      console.log(columns.map(col => s[col]).join(sep))
+      const values = columns.map(col => {
+        const val = s[col]
+        return typeof val === 'string' && needsEscaping(val)
+          ? `"${escapeChars(val)}"`
+          : val
+      })
+      console.log(values.join(sep))
     })
   })
+  .catch(err => console.error(err))
+
+function needsEscaping (val) {
+  return val.includes('\n') || val.includes('"') || val.includes(',')
+}
+
+function escapeChars (val) {
+  return val.replace(/"/g, '""')
+}
 
 function fetchShootings () {
   return fetch('https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States')
@@ -50,7 +65,7 @@ function parse (body) {
         // it's probably a '?'. only occurs a few times.
         injuries: Number.isNaN(intInjuries) ? 0 : intInjuries,
         location: location.includes('!') ? location.split('!')[1] : location,
-        description: description.replace('\n', ' ')
+        description
       }
     })
 }

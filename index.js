@@ -24,7 +24,7 @@ function needsEscaping (val) {
 }
 
 function escapeChars (val) {
-  return val.replace('"', '""')
+  return val.replace(/"/g, '""')
 }
 
 function fetchShootings () {

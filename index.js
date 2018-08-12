@@ -39,7 +39,7 @@ function parse (body) {
   return $('.wikitable > tbody tr')
     .filter((index, tr) =>
       // ignore headings
-      $(tr).children().first().text() !== 'Date'
+      $(tr).children().first().text().trim() !== 'Date'
     )
     .map((index, tr) =>
       $(tr)

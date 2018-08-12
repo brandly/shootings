@@ -1,17 +1,11 @@
 date	location	deaths	injuries	description
-	Location	NaN	0	"Description
-"
 1840-11-12T05:00:00.000Z	"Charlottesville, Virginia"	1	0	"John Anthony Gardner Davis, a law professor at the University of Virginia, was shot by student Joseph Semmes, and died from his wound three days later.[1][2]
-"
-	Location	NaN	0	"Description
 "
 1853-11-02T04:00:00.000Z	"Louisville, Kentucky"	1	0	"Student Mathews Flounoy Ward took a pistol to school, where he shot the schoolmaster William H.G. Butler as revenge for what Ward thought was excessive punishment of his brother the day before. Butler died, and Ward was acquitted.[3]
 "
 1856-08-16T04:00:00.000Z	"Florence, Alabama"	2	0	"The schoolmaster had a tame sparrow and had warned the students not to harm it, threatening death. One of the boys stepped on the bird and killed it; he was afraid to return to school but did so. After lessons, the master took the boy into a private room and strangled him to death. The boy's father went to the school and shot the schoolmaster dead.[4]
 "
 1858-07-08T04:00:00.000Z	"Baltimore, Maryland"	1	0	"The 15-year-old son of Col. John T. Farlow (Baltimore's Marshal of Police 1867–70), was killed during a Sabbath School gathering. The perpetrator escaped, but several arrests were made.[5]
-"
-	Location	NaN	0	"Description
 "
 1860-01-21T05:00:00.000Z	"Todd County, Kentucky"	1	0	"A son of Col. Elijah Sebree was killed by another student. Young Sebree was threatening the other boy and said he intended to kill him. The other student got a gun and walked up to Sebree in the schoolhouse, where he killed him.[6]
 "
@@ -22,8 +16,6 @@ date	location	deaths	injuries	description
 1867-04-02T04:00:00.000Z	"Madison, Florida"	1	0	"Frank Pope, a pupil at the St. John's seminary, killed his teacher Mr. Bristow with a pistol.[9]
 "
 1867-06-08T04:00:00.000Z	"New York City, New York"	0	1	"13-year-old Arthur Day secretly took a loaded pistol to Public School No. 18 to shoot a dog he said had bitten him. While playing with the pistol, Day accidentally injured classmate Robert Morton.[10]
-"
-	Location	NaN	0	"Description
 "
 1871-01-27T05:00:00.000Z	"Knoxville, Tennessee"	1	0	"John Roberts, aged ten or twelve, accidentally had one of his eyes shot out at school and died.[11]
 "
@@ -38,8 +30,6 @@ date	location	deaths	injuries	description
 1878-05-24T04:00:00.000Z	"St. Paul, Minnesota"	0	1	"A 12-year-old boy, Luckert, accidentally wounded Allie McDonald, another boy at the Neill school. The bullet passed out, and the youth was expected to recover. His mother Mrs. McDonald went to the police station, but did not file a formal complaint.[17]
 "
 1879-05-24T04:00:00.000Z	"Lancaster, New York"	0	1	"Telegraph operator Frank Shugart, severely injured Mr. Carr, superintendent of the stables at a girls' school.[18]
-"
-	Location	NaN	0	"Description
 "
 1881-12-01T05:00:00.000Z	"Santa Monica, California"	1	0	"While working late on the program for the children's concert at the schoolhouse, Mr. O'Donnell, the school master, and Mr. Williams, one of the parents, got into an argument. Williams pulled a gun and fatally shot O'Donnell in the back.[19]
 "
@@ -63,8 +53,6 @@ date	location	deaths	injuries	description
 "
 1889-06-13T04:00:00.000Z	"New Brunswick, New Jersey"	0	0	"Charles Crawford, upset over an argument with a school trustee, went up to the window and fired a pistol into a crowded schoolroom. The bullet lodged in the wall just above the teacher's head.[30]
 "
-	Location	NaN	0	"Description
-"
 1890-04-24T04:00:00.000Z	"Brazil, Indiana"	0	1	"While the pupils of the Meridian Street School were at play, Ben Corbery drew a revolver and seriously wounded 10-year-old Cora Brubach, in the face. Cora had told the teacher of Ben's misconduct.[31]
 "
 1890-12-27T05:00:00.000Z	"Staunton, Virginia"	1	0	"At the Kable's Military Academy, a 15-year-old student, A.H. Hathaway of Dennison, Texas, was accidentally killed by his 17-year-old classmate James Whitworth of Sulphur Springs, Texas, while they were playing with an old pistol.[32]
@@ -76,8 +64,6 @@ date	location	deaths	injuries	description
 1893-03-26T04:00:00.000Z	"Plain Dealing, Louisiana"	4	1	"During an evening school dance at Plain Dealing High School, a fight broke out. When the smoke cleared, two students were killed, two more were fatally wounded, and the high school's Professor Johnson was wounded in the arm.[35]
 "
 1898-12-13T05:00:00.000Z	"Charleston, West Virginia"	6	1	"During the school exhibition, a group of young men tried to break up a student performance. When a teacher, Mr. Fisher, tried to throw them out, they turned on him. Audience members joined the fray. The fight resulted in deaths: Harry Flasher was shot in the heart and instantly killed, Henry Carney was fatally shot in the back, Ralph Jones and two others were also fatally shot, and George Gibson was shot in the hand; Haz Harding had his skull crushed and several others received minor wounds.[36]
-"
-	Location	NaN	0	"Description
 "
 1903-02-24T05:00:00.000Z	"Inman, South Carolina"	1	0	"Edward Foster, a 17-year-old student at Inman High School, was fatally wounded by his teacher Reuben Pitts after jerking a rod from Pitts' hands to avoid punishment. According to the teacher, Foster struck the pistol Pitts had drawn, and caused it to fire. Pitts was acquitted of murder on grounds of self-defense.[37]
 "
@@ -106,8 +92,6 @@ date	location	deaths	injuries	description
 1909-08-18T04:00:00.000Z	"Bakersfield, California"	0	0	"After hunting doves, a group of six young men deliberately shot out the glass at the Fruitvale School. They also shot at the nearby residence of A.J. Hunter, narrowly missing several children in the rear yard.[49]
 "
 1909-09-11T04:00:00.000Z	"Gravette, Arkansas"	1	0	"John Butram, a student at the Bear Hollow School, told his fellow students that school was cancelled. The teacher A.T. Kelly insisted that the day's lesson was not over. When Butram drew a knife on his teacher, Kelly drew his gun and shot him.[50]
-"
-	Location	NaN	0	"Description
 "
 1910-01-12T05:00:00.000Z	"New York City, New York"	2	0	"""A black bearded maniac drew an automatic pistol"" and fired five shots into a crowd of boys at the Harlem School, who were taunting him. 6-year-old Robert Lomas, was hit and died instantly; 6-year-old Arthur Shively, was critically wounded.[51]
 "
@@ -147,8 +131,6 @@ date	location	deaths	injuries	description
 "
 1919-08-04T04:00:00.000Z	"Berkeley, California"	0	2	"Roger Sprague, an assistant in the department of chemistry at the University of California, despondent and desperate over his inability to obtain a position, slightly wounded 59-year-old Professor Edmond O'Neill, head of department, and 37-year-old Dr. Joel Henry Hildebrand, professor of chemistry, in the administration offices of Gilman Hall. He then went to California Hall and attempted to shoot 57-year-old May L. Cheney, appointment secretary, but struck only one of her hair combs before he was subdued.[71]
 "
-	Location	NaN	0	"Description
-"
 1920-02-14T05:00:00.000Z	"Durant, Oklahoma"	0	1	"At the Durant Normal School, teacher Albert McFarland, was seriously wounded by one of his pupils.[72]
 "
 1920-03-04T05:00:00.000Z	"Cincinnati, Ohio"	0	1	"14-year-old student, Lawrence Angel, shot his teacher, Beatrice Conner, through the arm for sending him to the principal's office.[73]
@@ -169,8 +151,6 @@ date	location	deaths	injuries	description
 "
 1926-12-29T05:00:00.000Z	"Gettysburg, Pennsylvania"	0	1	"12-year-old Frederick Heilman was shot through the right instep when Gettysburg College janitor, Joseph Carver, fired in the direction of a group of boys attempting to force their way into the college gymnasium. Carver had shot into the ground, attempting to scare the boys, and was not aware that a bullet had ricocheted. Mr Heilman chose not to prefer criminal charges.[81]
 "
-	Location	NaN	0	"Description
-"
 1930-05-22T04:00:00.000Z	"Ringe, Minnesota"	1	0	"24-year-old Douglas Petersen, killed 20-year-old teacher, Margaret Wegman, who was standing in the doorway of a rural schoolhouse.[82]
 "
 1931-05-28T04:00:00.000Z	"Duluth, Minnesota"	1	0	"Katherine McMillen, 24-year-old teacher at the Howard Gensen rural school near Duluth, was accidentally killed by a pupil who brought a revolver to school.[83]
@@ -189,8 +169,6 @@ date	location	deaths	injuries	description
 "
 1938-01-24T05:00:00.000Z	"Blencoe, Iowa"	1	0	"17-year-old Edward Marley was accidentally killed by a fellow actor while rehearsing for a play at Blencoe High School.[90]
 "
-	Location	NaN	0	"Description
-"
 1940-07-04T04:00:00.000Z	"Valhalla, New York"	1	0	"Angered by the refusal of his daughter, 15-year-old Melba, to leave a boarding school and return home, 47-year-old Joseph Moshell, went to the school, where he killed his daughter.[91]
 "
 1942-10-02T04:00:00.000Z	"New York City, New York"	1	0	"Irwin Goodman, 36-year-old mathematics teacher at William J. Gaynor Junior High School, was killed in the school corridor by a youth.[92]
@@ -202,8 +180,6 @@ date	location	deaths	injuries	description
 1949-03-11T05:00:00.000Z	"New York City, New York"	0	1	"A 16-year-old student at Stuyvesant High School was accidentally shot in the arm by a fellow student who was 'showing off' with a pistol in a classroom.[95]
 "
 1949-11-12T05:00:00.000Z	"Columbus, Ohio"	1	0	"Ohio State University freshman James Heer grabbed a .45 caliber handgun from the room of a Delta Tau Delta fraternity brother, and killed 21-year-old Jack McKeown, a senior and also a fraternity brother.[96]
-"
-	Location	NaN	0	"Description
 "
 1950-07-22T04:00:00.000Z	"New York City, New York"	0	1	"A 16-year-old boy was shot in the wrist and abdomen at the Public School 141 dance during an argument with a former classmate.[97]
 "
@@ -236,8 +212,6 @@ date	location	deaths	injuries	description
 1958-05-01T04:00:00.000Z	"Massapequa, New York"	1	0	"A 15-year-old Massapequa High School freshman was killed by a classmate in a washroom.[112]
 "
 1959-09-24T04:00:00.000Z	"New York City, New York"	1	0	"Twenty-seven men and boys and an arsenal were seized in the Bronx as the police headed off a gang war resulting from the fatal shooting of a teenager at Morris High School.[113]
-"
-	Location	NaN	0	"Description
 "
 1960-02-02T05:00:00.000Z	"Hartford City, Indiana"	3	0	"44-year-old school principal Leonard Redden killed teachers Harriett Robson and Minnie McFerren inside their classrooms at William Reed School. Redden then fled to a wooded area where he killed himself.[114]
 "
@@ -274,8 +248,6 @@ date	location	deaths	injuries	description
 1969-05-13T04:00:00.000Z	"Winston-Salem, North Carolina"	1	0	"13-year-old Ernest Napoleon Carter Jr. was accidentally killed, by a 13-year-old classmate at Hanes Junior High School who was armed with a pistol. The shooter was charged with involuntary manslaughter. Carter's mother filed a lawsuit against the Winston-Salem/Forsyth County Board of Education for $50,000 in damages.[134]
 "
 1969-11-19T05:00:00.000Z	"Tomah, Wisconsin"	1	0	"46-year-old Martin Mogensen, principal of Tomah Junior High School, was killed in his office by a 14-year-old boy.[135]
-"
-	Location	NaN	0	"Description
 "
 1970-01-05T05:00:00.000Z	"Washington, D.C."	1	1	"15-year-old Tyrone Perry, was killed at Hine Junior High School.[136]
 "
@@ -334,8 +306,6 @@ date	location	deaths	injuries	description
 1979-04-16T05:00:00.000Z	"Milwaukee, Wisconsin"	0	1	"17-year-old Timothy Stahle was critically wounded in the leg and upper thigh, with shot gun pellets, as he threw rocks at the windows of Wisconsin Lutheran High School. 28-year-old school janitor, Kenneth B. Stein, was arrested.[169]
 "
 1979-09-28T04:00:00.000Z	"Charlestown, Massachusetts"	0	1	"15-year-old sophomore, Darryl Williams, was shot in the neck by a sniper during the half-time interval, while standing with teammates and coach in the end zone of the Charlestown High School football field. The player for the predominantly black Jamaica Plain High School team was left paralysed. A racial motivation was determined by Mayor Kevin White.[170] 17-year-old white youths, Joseph Nardone and Stephen McGonagle, were charged with the shooting and received ten year sentences.[171]
-"
-	Location	NaN	0	"Description
 "
 1980-01-07T05:00:00.000Z	"Stamps, Arkansas"	1	0	"16-year-old Evan Hampton, high school freshman student at Stamps High School, waited in a classroom for 19-year-old student Mike Sanders, whom he immediately killed. Hampton went to the principal's office, turned in the gun and waited for his arrest by police.[172]
 "
@@ -416,8 +386,6 @@ date	location	deaths	injuries	description
 1989-02-10T05:00:00.000Z	"Kearns, Utah"	0	0	"At Thomas Jefferson Junior High School, a 12-year-old boy fired a handgun at a vice principal, William Crumbaugh. No one was injured.[218]
 "
 1989-12-05T05:00:00.000Z	"McKeesport, Pennsylvania"	1	1	"While riding the school bus, 16-year-old Serra Catholic High School student, Robert Butler, shot 16-year-old schoolmate, Adam Ference, in the back of the head before fatally shooting himself.[219] Ference was in critical condition but survived.[220]
-"
-	Location	NaN	0	"Description
 "
 1990-03-27T05:00:00.000Z	"Brooklyn, New York"	0	1	"A black youth was taunted with racial slurs by three white youths in the stairwell of a public school in the Bensonhurst area of Brooklyn. The 14-year-old was then shot and slightly wounded, because he had acted as peacemaker when the same boys had clashed with another black teen the month before.[221]
 "
@@ -547,8 +515,6 @@ date	location	deaths	injuries	description
 "
 1999-12-06T05:00:00.000Z	"Fort Gibson, Oklahoma"	0	6	"Before his middle school opened, 13-year-old Seth Trickey opened fire in the courtyard. While there were no fatalities, several students felt sparks from the bullets hitting the building walls. Five were injured, including a girl who was shot in the face.[283] Trickey brought the gun from home.[296]
 "
-	Location	NaN	0	"Description
-"
 2000-02-29T05:00:00.000Z	"Flint, Michigan"	1	0	"Shooting of Kayla Rolland: At Buell Elementary School,
 6-year-old Dedrick Owens fatally shot 6-year-old classmate Kayla Rolland. Owens has since been the youngest documented school shooter.[297]
 
@@ -670,8 +636,6 @@ date	location	deaths	injuries	description
 2009-06-16T04:00:00.000Z	"San Francisco, California"	0	3	"After students were being let out of International Studies Academy on the first day of summer school classes, a man left a car and opened fire, wounding three people, including a 17-year-old female student. An 18-year-old man was arrested for being an accessory in the crime.[366]
 "
 2009-09-03T04:00:00.000Z	"San Bruno, California"	0	1	"A 20-year-old student was wounded in the parking lot of Skyline College after an argument between him and other men. The college campus was placed on lockdown. Three San Francisco residents, 18-year-old Germaine B. Benjamin, 20-year-old Dimaryea J. McGhee, and 18-year-old Jacori W. Bender, were each arrested and charged with felony firearm offenses.[367]
-"
-	Location	NaN	0	"Description
 "
 2010-02-05T05:00:00.000Z	"Madison, Alabama"	1	0	"14-year-old student, Hammad Memon, killed 14-year-old Todd Brown at Discovery Middle School as classes were changing. The shooting was possibly related to gang activity. In May 2013, Memon pleaded guilty to the murder and was sentenced to thirty years of prison. After Memon is released from prison, he is likely to be deported to his native Pakistan.[368]
 "
@@ -850,8 +814,6 @@ date	location	deaths	injuries	description
 2014-11-20T05:00:00.000Z	"Miami, Florida"	1	1	"Two teens were shot during a fight at Miami Carol City High School. One of the boys died.[467]
 "
 2014-12-12T05:00:00.000Z	"Portland, Oregon"	0	4	"Rosemary Anderson High School shooting: A gunman shot three students and a man outside Rosemary Anderson High School in north Portland. A 16-year-old girl was in critical condition, while the others suffered minor injuries. Two men, aged eighteen and twenty-two, were arrested in connection with the shooting.[468]
-"
-	Location	NaN	0	"Description
 "
 2015-01-15T05:00:00.000Z	"Milwaukee, Wisconsin"	0	3	"A 15-year-old boy, a student's father, and a teacher were each injured in the school parking lot at Wisconsin Lutheran High School. The student had unspecified injuries that were treated. The father was shot in the knee and the teacher was grazed in the toe. A 36-year-old man was charged in the shooting.[469]
 "

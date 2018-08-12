@@ -64,7 +64,7 @@ function parse (body) {
         deaths: parseInt(deaths),
         // it's probably a '?'. only occurs a few times.
         injuries: Number.isNaN(intInjuries) ? 0 : intInjuries,
-        location: location.includes('!') ? location.split('!')[1] : location,
+        location: (location.includes('!') ? location.split('!')[1] : location).trim(),
         description
       }
     })

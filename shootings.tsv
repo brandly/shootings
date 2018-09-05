@@ -75,7 +75,7 @@ date	location	deaths	injuries	description
 "
 1904-12-16T05:00:00.000Z	"Magee, Mississippi"	1	1	"Parent E.E. Mangum was shot through the head and killed by the principal of the high school, Professor J.E. Woodward. Mangum had argued with Woodward, who had given Mangum's 15-year-old son a severe whipping. Mangum lost his temper, shooting Woodward through the wrist.[41]
 "
-1905-02-09T05:00:00.000Z	"Colusa, California"	0	1	"At the request of his childhood friend, Pearl Cruse, 17-year-old Elmer Hildreth, who did not attend her school, went to a meeting between Miss Cruse and her teacher. It ended in ""a hand to hand"" encounter between teacher and pupil. When Ingrim went after Hildreth with an axe, Hildreth shot him in the stomach. Hildreth was arrested and bail was posted by five prominent men in the community. Hildreth was found to have acted in self-defense and no charges were filed. Ingrim survived.[42]
+1905-02-09T05:00:00.000Z	"Colusa, California"	0	1	"17-year-old Elmer Hildreth met with a school Trustee and it ended in a ""hand to hand"" encounter between teacher and pupil over Hildreth being suspended. When Mr. Ingrim went after Hildreth with an axe, Hildreth shot him in the stomach. Hildreth was arrested and, bail was posted by five prominent men in the community. Hildreth was found to have acted in self-defense and no charges were filed. Ingrim survived.[42]
 "
 1905-10-05T04:00:00.000Z	"Hickman, Kentucky"	1	0	"Parent George Nicholson killed John Kurd at a schoolhouse during a school rehearsal. Kurd had made a disparaging remark about Nicholson's daughter during her recital.[43]
 "
@@ -91,7 +91,7 @@ date	location	deaths	injuries	description
 "
 1909-08-18T04:00:00.000Z	"Bakersfield, California"	0	0	"After hunting doves, a group of six young men deliberately shot out the glass at the Fruitvale School. They also shot at the nearby residence of A.J. Hunter, narrowly missing several children in the rear yard.[49]
 "
-1909-09-11T04:00:00.000Z	"Gravette, Arkansas"	1	0	"John Butram, a student at the Bear Hollow School, told his fellow students that school was cancelled. The teacher A.T. Kelly insisted that the day's lesson was not over. When Butram drew a knife on his teacher, Kelly drew his gun and shot him.[50]
+1909-09-11T04:00:00.000Z	"McDonald County, Missouri"	1	0	"John Butram, a student at the Bear Hollow School, told his fellow students that school was cancelled. The teacher A.T. Kelly insisted that the day's lesson was not over. When Butram drew a knife on his teacher, Kelly drew his gun and shot him.[50]
 "
 1910-01-12T05:00:00.000Z	"New York City, New York"	2	0	"""A black bearded maniac drew an automatic pistol"" and fired five shots into a crowd of boys at the Harlem School, who were taunting him. 6-year-old Robert Lomas, was hit and died instantly; 6-year-old Arthur Shively, was critically wounded.[51]
 "
@@ -227,7 +227,7 @@ date	location	deaths	injuries	description
 "
 1966-04-27T04:00:00.000Z	"Bay Shore, New York"	1	0	"48-year-old teacher, John S. Lane, was fatally wounded when he tried to stop 16-year-old student James Arthur Frampton. The youth was walking through the halls of Bay Shore Senior High School with a shotgun, searching for boys whom he had argued with earlier that day. Lane died about six weeks later of his wounds.[121]
 "
-1966-08-01T04:00:00.000Z	"Austin, Texas"	17	31	"University of Texas massacre: 25-year-old engineering student, Charles Whitman, got onto the observation deck at the University of Texas-Austin, from where he killed seventeen people and wounded thirty-one during a 96-minute shooting rampage. He had earlier murdered his wife and mother at their homes.[122][123][124] It was the deadliest shooting on a U.S. college campus until the Virginia Tech shooting in 2007.
+1966-08-01T04:00:00.000Z	"Austin, Texas"	18	31	"University of Texas tower shooting: 25-year-old engineering student, Charles Whitman, got onto the observation deck at the University of Texas-Austin, from where he killed 15 people and wounded 31 during a 96-minute shooting rampage. He had earlier murdered his wife and mother at their homes.[122][123][124] It was the deadliest shooting on a U.S. college campus until the Virginia Tech shooting in 2007. He was then killed by police.
 "
 1966-10-05T04:00:00.000Z	"Grand Rapids, Minnesota"	1	1	"Grand Rapids High School student, 15-year-old David Black, killed school administrator Forrest Willey and seriously wounded fellow student, 14-year-old Kevin Roth.[125][126]
 "
@@ -251,7 +251,7 @@ date	location	deaths	injuries	description
 "
 1970-01-05T05:00:00.000Z	"Washington, D.C."	1	1	"15-year-old Tyrone Perry, was killed at Hine Junior High School.[136]
 "
-1970-02-11T05:00:00.000Z	"Philadelphia, Pennsylvania"	1	2	"University of Pennsylvania professors, 40-year-old Walter Koppelman, and 45-year-old Oscar Goldman, were shot by 33-year-old disgruntled graduate student, Robert Cantor, during a seminar. Cantor then took his own life. Koppelman died March 5 from his injuries, but Goldman recovered.[137]
+1970-02-11T05:00:00.000Z	"Philadelphia, Pennsylvania"	2	1	"University of Pennsylvania professors, 40-year-old Walter Koppelman, and 45-year-old Oscar Goldman, were shot by 33-year-old disgruntled graduate student, Robert Cantor, during a seminar. Cantor then took his own life. Koppelman died March 5 from his injuries, but Goldman recovered.[137]
 "
 1970-05-04T04:00:00.000Z	"Kent, Ohio"	4	9	"Kent State shootings: During protests against the bombings in Cambodia during the Vietnam War, members of the Ohio National Guard shot and killed 4 unarmed college students and injured a further 9. The shootings led to protests and strikes on colleges all across the United States.
 "
@@ -961,9 +961,13 @@ date	location	deaths	injuries	description
 "
 2018-05-16T04:00:00.000Z	"Dixon, Illinois"	0	1	"Dixon High School: A 19-year-old student recently kicked off the football team allegedly fired shots prior to graduation rehearsal. A school resource officer shot the suspect, who suffered non-life-threatening injuries.[555][556]
 "
-2018-05-18T04:00:00.000Z	"Santa Fe, Texas"	10	10	"Santa Fe High School shooting: The school was evacuated when fire alarms were pulled at 7:45 am after students said they had heard gunshots. The shooter (Dimitrios Pagourtzis) started in the art room, then went through the art hallway. The shooter had a Remington 870 shotgun and a .38 caliber revolver. Multiple IEDs, pressure cookers, Molotov cocktails, pipe bombs, propane tanks, and other homemade explosives were also found around the school and parking lot.[557]
+2018-05-18T04:00:00.000Z	"Santa Fe, Texas"	10	13	"Santa Fe High School shooting: The school was evacuated when fire alarms were pulled at 7:45 am after students said they had heard gunshots. The shooter (Dimitrios Pagourtzis) started in the art room, then went through the art hallway. The shooter had a Remington 870 shotgun and a .38 caliber revolver. Multiple IEDs, pressure cookers, Molotov cocktails, pipe bombs, propane tanks, and other homemade explosives were also found around the school and parking lot.[557]
 "
 2018-05-18T04:00:00.000Z	"Jonesboro, Georgia"	1	3	"Mount Zion High School: An argument led to a shooting in a parking lot after a high school graduation ceremony for graduates of Perry Learning Center. Mount Zion High School provided overflow parking for people attending the ceremony.[558]
 "
 2018-05-25T04:00:00.000Z	"Noblesville, Indiana"	0	2	"Noblesville West Middle School shooting: Two people were shot and injured in a shooting at Noblesville West Middle School in Noblesville, Indiana. The shooter is an unnamed middle school student who exited his science classroom and re-entered with a gun. When he returned, he shot a female student and the science teacher, identified as Jason Seamen. Seamen was shot in the abdomen, hip, and forearm. The gun was wrestled away by Seamen after both he and the female student were shot.[559][560]
+"
+2018-08-17T04:00:00.000Z	"Wellington, Florida"	0	2	"Two people were shot and injured at a football game in Palm Beach Central High School in Wellington, Florida.[561]
+"
+2018-08-30T04:00:00.000Z	"San Francisco, California"	0	1	"One student was injured when two students were joking around about guns, and one student discharged a firearm at Balboa High School (California) in San Francisco, California. 4 students were arrested in this incident, and 2 were allowed to go back to school. The school was on lockdown along with three other schools in the area for two hours. [562]
 "

@@ -3,7 +3,7 @@ date	location	deaths	injuries	description
 "
 1853-11-02T04:00:00.000Z	"Louisville, Kentucky"	1	0	"Student Mathews Flounoy Ward shot the schoolmaster William H.G. Butler as revenge for what Ward thought was excessive punishment of his brother the day before. Butler died, and Ward was acquitted.[3]
 "
-1856-08-16T04:00:00.000Z	"Florence, Alabama"	2	0	"The schoolmaster warned students not to harm his tame sparrow, threatening death. One of the boys stepped on the bird and killed it. After lessons, the master took the boy into a private room and strangled him to death. The boy's father went to the school and shot the schoolmaster dead.[4]
+1856-08-16T04:00:00.000Z	"Florence, Alabama"	1	0	"The schoolmaster warned students not to harm his tame sparrow, threatening death. One of the boys stepped on the bird and killed it. When the boy returned to school, the master took the boy into a private room and strangled him. The boy's father upon hearing what had happened went to the school and shot the schoolmaster dead.[4]
 "
 1858-07-08T04:00:00.000Z	"Baltimore, Maryland"	1	0	"The 15-year-old son of Col. John T. Farlow (Baltimore's Marshal of Police 1867–70), was killed during a Sabbath School gathering. The perpetrator escaped, but several arrests were made.[5]
 "
@@ -215,7 +215,7 @@ date	location	deaths	injuries	description
 "
 1961-01-04T05:00:00.000Z	"Delmont, South Dakota"	1	0	"Donald Kurtz, 17-year-old senior at Delmont High School, was fatally wounded by a .22 caliber bullet from a rifle. The shot, intended as a sound effect for a school play, hit him in the chest during a rehearsal minutes before the play was to take place.[119]
 "
-1961-10-17T04:00:00.000Z	"Denver, Colorado"	2	1	"14-year-old Tennyson Beard, got into an argument with 15-year-old William Hachmeister, at Morey Junior High School, shooting and wounding him. Another shot fatally struck 14-year-old Deborah Faith Humphrey. Beard attempted suicide, but survived. He was later found not guilty by reason of insanity.[120][121]
+1961-10-17T04:00:00.000Z	"Denver, Colorado"	1	2	"14-year-old Tennyson Beard, got into an argument with 15-year-old William Hachmeister, at Morey Junior High School, shooting and wounding him. Another shot fatally struck 14-year-old Deborah Faith Humphrey. Beard attempted suicide, but survived. He was later found not guilty by reason of insanity.[120][121]
 "
 1963-11-05T05:00:00.000Z	"Cedar Rapids, Iowa"	0	1	"15-year-old Augie Holmquist, a student at Jefferson High School, was in the locker room after swimming class and was shot twice in the back and once in the hip with a .22 caliber revolver by student, 16-year-old Randy Schultz. Schultz ran home and told his parents to call the police. The boys had been playing water polo, and Holmquist had reportedly dunked Shultz. When Schultz objected, Holmquist hit him. Schultz retaliated with a gun.[122]
 "
@@ -263,7 +263,7 @@ date	location	deaths	injuries	description
 "
 1974-01-17T04:00:00.000Z	"Chicago, Illinois"	1	0	"52-year-old elementary school principal, Rudolph Jezek Jr., was killed in his office by 14-year-old Steven Guy, a former student said to be angry about being transferred to a social adjustment center.[147]
 "
-1974-03-22T04:00:00.000Z	"Brownstown, Indiana"	1	0	"48-year-old Jessie Blevins, athletic director at Brownstown Central High School, was fatally shot in the school parking lot by a 17-year-old student waiting for him. He gave the police no motive.[148]
+1974-03-22T04:00:00.000Z	"Brownstown, Indiana"	1	0	"48-year-old James T. Blevins, athletic director at Brownstown Central High School, was fatally shot in the school parking lot by a 17-year-old student waiting for him. He gave the police no motive.[148]
 "
 1974-10-04T04:00:00.000Z	"Kent, Ohio"	0	1	"19-year-old McKeesport student, Ray D. Gilmore, was wounded in a scuffle with two men in his third floor campus dormitory room. 26-year-old Benjamin F. Goodman and 22-year-old Carl Bell, who were not students, had their .32 caliber pistols taken and were wrestled to the floor by other students.[149]
 "
@@ -301,7 +301,7 @@ date	location	deaths	injuries	description
 "
 1979-04-16T05:00:00.000Z	"Milwaukee, Wisconsin"	0	1	"17-year-old Timothy Stahle was critically wounded in the leg and upper thigh, with shot gun pellets, as he threw rocks at the windows of Wisconsin Lutheran High School. 28-year-old school janitor, Kenneth B. Stein, was arrested.[175]
 "
-1979-09-28T04:00:00.000Z	"Charlestown, Massachusetts"	0	1	"15-year-old sophomore, Darryl Williams, was shot in the neck by a sniper during the half-time interval, while standing with teammates and coach in the end zone of the Charlestown High School football field. The player for the predominantly black Jamaica Plain High School team was left paralysed. A racial motivation was determined by Mayor Kevin White.[176] 17-year-old white youths, Joseph Nardone and Stephen McGonagle, were charged with the shooting and received ten year sentences.[177]
+1979-09-28T04:00:00.000Z	"Charlestown, Massachusetts"	0	1	"15-year-old sophomore, Darryl Williams, was shot in the neck by a sniper during the half-time interval, while standing with teammates and coach in the end zone of the Charlestown High School football field. The player for the predominantly black Jamaica Plain High School team was left paralysed. A racial motivation was determined by Mayor Kevin White.[176] 17-year-old white youths, Joseph Nardone and Stephen McGonagle, were charged with the shooting and received ten-year sentences.[177]
 "
 1980-01-07T05:00:00.000Z	"Stamps, Arkansas"	1	0	"16-year-old Evan Hampton, high school freshman student at Stamps High School, waited in a classroom for 19-year-old student Mike Sanders, whom he immediately killed. Hampton went to the principal's office, turned in the gun and waited for his arrest by police.[178]
 "
@@ -403,7 +403,7 @@ date	location	deaths	injuries	description
 "
 1992-02-26T05:00:00.000Z	"Brooklyn, New York"	2	0	"Thomas Jefferson High School second shooting: 15-year-old Kahlil Sumpter, killed fellow students, 16-year-old Tyrone Sinkler and 17-year-old Ian Moore, on the school's second-floor hallway.[240] In 1993, he was sentenced to between 6⅔ and twenty years in prison. He was released on parole in 1998.[225]
 "
-1992-03-05T05:00:00.000Z	"Obetz, Ohio"	0	1	"Hamilton Middle School: Gordon W. Dye Jr. shot his bully Gregg Johnson in the head with a .22-caliber pistol in the school cafeteria. Gregg was rushed to Children's Hospital in Columbus where doctors found the bullet and traced it's path. It had entered between Gregg's eyes and traveled the nasal sinuses where it shattered bones. Its trajectory was parallel to the bottom of the skull and was deflected by part of the skull base. This deflection sent the bullet on a downward path, to the adenoids.[241]
+1992-03-05T05:00:00.000Z	"Obetz, Ohio"	0	1	"Hamilton Middle School: Gordon W. Dye Jr. shot his bully Gregg Johnson in the head with a .22-caliber pistol in the school cafeteria. Gregg was rushed to Children's Hospital in Columbus where doctors found the bullet and traced its path. It had entered between Gregg's eyes and traveled the nasal sinuses where it shattered bones. Its trajectory was parallel to the bottom of the skull and was deflected by part of the skull base. This deflection sent the bullet on a downward path, to the adenoids.[241]
 "
 1992-05-01T04:00:00.000Z	"Olivehurst, California"	4	10	"Lindhurst High School shooting: Former student, 20-year-old Eric Houston, killed three students and one teacher, and wounded nine other students and teacher before surrendering to police. Houston was later sentenced to death and remains on California's death row.[166][225]
 "
@@ -507,7 +507,7 @@ date	location	deaths	injuries	description
 "
 1999-04-16T04:00:00.000Z	"Notus, Idaho"	0	0	"15-year-old Shawn Cooper, fired two shots from a shotgun near the front desk at Notus Jr. Sr. High School. There were no serious injuries, but some students were close enough to the blast to be grazed by shrapnel from the tile floor. Cooper had been undergoing treatment for bipolar disorder.[305]
 "
-1999-04-20T04:00:00.000Z	"Littleton, Colorado"	15	21	"Columbine High School massacre: 18-year-old Eric Harris and 17-year-old Dylan Klebold, students at Columbine High School, killed twelve students and one teacher. They injured 21 additional people, and three more were injured while attempting to escape the school. The pair committed suicide in the library after a brief gunfight with police at the end of the massacre. Eric and Dylan used a 9mm Hi Point Carbine rifle, a Savage 67H pump-action shotgun (sawed off), multiple pipe bombs, propane tanks, gasoline bombs, etc. Klebold used a Intratec TEC-DC9 semi-automatic pistol, a stevens 311d double barreled sawed-off shotgun multiple pipe bombs, Molotov cocktails, and propane tanks. [296][306]
+1999-04-20T04:00:00.000Z	"Littleton, Colorado"	15	21	"Columbine High School massacre: 18-year-old Eric Harris and 17-year-old Dylan Klebold, students at Columbine High School, killed twelve students and one teacher. They injured 21 additional people, and three more were injured while attempting to escape the school. The pair committed suicide in the library after a brief gunfight with police at the end of the massacre. Eric and Dylan used a 9mm Hi Point Carbine rifle, a Savage 67H pump-action shotgun (sawed off), multiple pipe bombs, propane tanks, gasoline bombs, etc. Klebold used an Intratec TEC-DC9 semi-automatic pistol, a stevens 311d double barreled sawed-off shotgun multiple pipe bombs, Molotov cocktails, and propane tanks. [296][306]
 "
 1999-05-20T04:00:00.000Z	"Conyers, Georgia"	0	6	"15-year-old student Thomas ""T.J."" Solomon Jr., wounded six students at Heritage High School. A 15-year-old girl was hospitalized in critical condition, and the other victims suffered from non-life-threatening injuries.[296] Solomon initially faced up to 351 years of prison if convicted of aggravated assault and other charges. In 2000 he was found guilty but mentally ill and was sentenced to forty years in prison and sixty-five years of probation.[307]
 "
@@ -545,7 +545,7 @@ date	location	deaths	injuries	description
 "
 2002-02-20T05:00:00.000Z	"Milwaukee, Wisconsin"	1	0	"16-year-old Washington High School student, Joseph Johnson Jr., was killed by Phillip D. Jackson Jr., when violence erupts between rival fans in the parking lot, after a basketball game between Vincent High School.[325]
 "
-2002-10-07T04:00:00.000Z	"Bowie, Maryland"	0	1	"In the Beltway sniper attacks, one victim of several was 13-year-old Iran Brown, who was wounded as he arrived at Benjamin Tasker Middle School in Bowie, Maryland. His aunt, a nurse who had just dropped him off, rushed him to a hospital emergency room. Despite serious injuries, Brown survived the attack.[326][327]
+2002-10-07T04:00:00.000Z	"Bowie, Maryland"	0	1	"In the Beltway sniper attacks, one victim of several was 13-year-old Iran Brown, who was wounded as he arrived at Benjamin Tasker Middle School in Bowie, Maryland. His aunt, a nurse who had just dropped him off, rushed him to a hospital emergency room. Despite serious injuries, Brown survived the attack.[326][327] The shooters, Lee Boyd Malvo and John Allen Muhammad, were later convicted of numerous unrelated murders committed during their killing spree. Muhammad was executed in 2009, while Malvo was sentenced to life in prison.
 "
 2002-10-28T05:00:00.000Z	"Tucson, Arizona"	4	0	"Failing nursing college student and Gulf War veteran, 40-year-old Robert Stewart Flores Jr., killed three assistant professors of nursing at the University of Arizona, 50-year-old Robin Rogers, 44-year-old Cheryl McGaffic, and 45-year-old Barbara Monroe, before turning the gun on himself.[328]
 "
@@ -981,7 +981,9 @@ date	location	deaths	injuries	description
 "
 2018-09-10T04:00:00.000Z	"Memphis, Tennessee"	0	1	"A teen girl was injured after shots were fired into school bus full of students attending Fairley High School.[583]
 "
-2018-09-11T04:00:00.000Z	"Las Vegas, Nevada"	1	0	"A 18-year-old student was shot at Canyon Springs High School near the baseball field and later died of his injuries at a hospital.[584]
+2018-09-11T04:00:00.000Z	"Las Vegas, Nevada"	1	0	"An 18-year-old student was shot at Canyon Springs High School near the baseball field and later died of his injuries at a hospital.[584]
 "
 2018-10-29T04:00:00.000Z	"Matthews, North Carolina"	1	1	"A David W. Butler High School freshman, 16 year old Jatwan Craig Cuffie, fatally shot sophomore Bobby McKeithen. Cuffie is in custody and charged with first-degree murder. [585][586]
+"
+2018-12-13T05:00:00.000Z	"Richmond, Indiana"	1	0	"A 14-year-old male attempted a shooting on Dennis Intermediate School. Informed of his intentions by his own mother, police arrived just before he was able to begin his attack. He was cornered in one of the school's stairwells and died by a self-inflicted gunshot wound.[587]
 "

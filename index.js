@@ -16,7 +16,7 @@ async function fetchShootings() {
 
 fetchShootings()
   .then((shootings) => {
-    console.log(unparse(shootings, { delimiter: '\t', newline: '\n' }))
+    process.stdout.write(unparse(shootings, { delimiter: '\t', newline: '\n' }))
   })
   .catch((err) => console.error(err))
 

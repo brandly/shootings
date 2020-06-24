@@ -2,40 +2,23 @@ const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const moment = require('moment')
 const { groupBy, sum } = require('lodash')
+const { unparse } = require('papaparse')
 
 const newUrl =
   'https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States'
 const oldUrl =
   'https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States_(before_2000)'
 async function fetchShootings() {
-  const older = await fetch(oldUrl).then(res => res.text())
-  const newer = await fetch(newUrl).then(res => res.text())
+  const older = await fetch(oldUrl).then((res) => res.text())
+  const newer = await fetch(newUrl).then((res) => res.text())
   return parse(older).concat(parse(newer))
 }
 
 fetchShootings()
-  .then(shootings => {
-    const sep = '\t'
-    console.log(columns.join(sep))
-    shootings.forEach(s => {
-      const values = columns.map(col => {
-        const val = s[col]
-        return typeof val === 'string' && needsEscaping(val)
-          ? `"${escapeChars(val)}"`
-          : val
-      })
-      console.log(values.join(sep))
-    })
+  .then((shootings) => {
+    console.log(unparse(shootings, { delimiter: '\t', newline: '\n' }))
   })
-  .catch(err => console.error(err))
-
-function needsEscaping(val) {
-  return val.includes('\n') || val.includes('"') || val.includes(',')
-}
-
-function escapeChars(val) {
-  return val.replace(/"/g, '""')
-}
+  .catch((err) => console.error(err))
 
 function parse(body) {
   const $ = cheerio.load(body)
@@ -44,11 +27,7 @@ function parse(body) {
     .filter(
       (index, tr) =>
         // ignore headings
-        $(tr)
-          .children()
-          .first()
-          .text()
-          .trim() !== 'Date'
+        $(tr).children().first().text().trim() !== 'Date'
     )
     .map((index, tr) =>
       $(tr)

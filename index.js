@@ -76,7 +76,7 @@ function parse(body, columns) {
           ? location.split('!')[1]
           : location
         ).trim(),
-        description
+        description: description.trim()
       }
     })
 }

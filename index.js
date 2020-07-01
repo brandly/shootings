@@ -4,23 +4,45 @@ const moment = require('moment')
 const { groupBy, sum } = require('lodash')
 const { unparse } = require('papaparse')
 
-const newUrl =
-  'https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States'
-const oldUrl =
-  'https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States_(before_2000)'
-async function fetchShootings() {
-  const older = await fetch(oldUrl).then((res) => res.text())
-  const newer = await fetch(newUrl).then((res) => res.text())
-  return parse(older).concat(parse(newer))
+async function fetchShootings(urls, columns) {
+  const results = await Promise.all(
+    urls.map((url) =>
+      fetch(url)
+        .then((res) => res.text())
+        .then((text) => parse(text, columns))
+    )
+  )
+  return results.reduce((a, b) => a.concat(b), [])
 }
 
-fetchShootings()
+const flag = process.argv[2]
+let promise
+if (flag === 'school') {
+  promise = fetchShootings(
+    [
+      'https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States_(before_2000)',
+      'https://en.wikipedia.org/wiki/List_of_school_shootings_in_the_United_States'
+    ],
+    ['date', 'location', 'deaths', 'injuries', 'description']
+  )
+} else if (flag === 'mass') {
+  promise = fetchShootings(
+    [
+      'https://en.wikipedia.org/wiki/List_of_mass_shootings_in_the_United_States'
+    ],
+    ['date', 'location', 'deaths', 'injuries', 'totals', 'description']
+  )
+} else {
+  throw new Error(`Unexpected flag "${flag}"`)
+}
+
+promise
   .then((shootings) => {
     process.stdout.write(unparse(shootings, { delimiter: '\t', newline: '\n' }))
   })
   .catch((err) => console.error(err))
 
-function parse(body) {
+function parse(body, columns) {
   const $ = cheerio.load(body)
 
   return $('.wikitable > tbody tr')
@@ -35,7 +57,7 @@ function parse(body) {
         .map((i, td) => $(td).text())
         .toArray()
         .reduce((res, val, index) => {
-          res[indexToColumn(index)] = val
+          res[columns[index]] = val
           return res
         }, {})
     )
@@ -57,9 +79,4 @@ function parse(body) {
         description
       }
     })
-}
-
-const columns = ['date', 'location', 'deaths', 'injuries', 'description']
-function indexToColumn(i) {
-  return columns[i]
 }

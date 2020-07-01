@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "make": "node index.js > shootings.tsv"
+    "make": "node index.js school > school-shootings.tsv && node index.js mass > mass-shootings.tsv"
   },
   "dependencies": {
     "cheerio": "1.0.0-rc.2",

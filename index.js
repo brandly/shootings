@@ -12,7 +12,13 @@ async function fetchShootings(urls, columns) {
         .then((text) => parse(text, columns))
     )
   )
-  return results.reduce((a, b) => a.concat(b), [])
+  return results
+    .reduce((a, b) => a.concat(b), [])
+    .sort((a, b) => {
+      if (a.date > b.date) return 1
+      if (a.date < b.date) return -1
+      return 0
+    })
 }
 
 const flag = process.argv[2]

@@ -5,3 +5,5 @@ to update the `.tsv`:
 ```shell
 $ npm run make
 ```
+
+see also [The Mass Shootings in America Database](https://github.com/StanfordGeospatialCenter/MSA), maintained by The Stanford Geospatial Center, which includes more fine-grained counts, geo coordinates, gun type, shooter(s) age, etc.
